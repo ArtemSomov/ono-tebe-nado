@@ -239,6 +239,7 @@
 
 .lots__look-more-link {
   display: block;
+  max-width: fit-content;
   margin: 31px 0 0 40px;
   color: #000000;
   font-weight: 400;
